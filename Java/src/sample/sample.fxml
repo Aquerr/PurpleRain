@@ -1,0 +1,11 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+<?import javafx.scene.layout.Pane?>
+
+<Pane fx:controller="sample.Controller"
+      xmlns:fx="http://javafx.com/fxml" fx:id="mainCanvas" minHeight="450" minWidth="800">
+</Pane>
